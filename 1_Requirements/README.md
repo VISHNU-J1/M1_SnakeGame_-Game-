@@ -7,7 +7,6 @@
 * The fruit will generate automatically within the boundaries.
 * Whenever the snake will touch the boundary the game is over.
 ## Low Level Requirements
-* There will be four user-defined functions.
 * Build a boundary within which the game will be played.
 * The fruits are generated randomly.
 * Then increase the score whenever the snake eats a fruit.
