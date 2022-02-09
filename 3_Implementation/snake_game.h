@@ -1,0 +1,2 @@
+void Print();
+void load();
