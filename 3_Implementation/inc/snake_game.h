@@ -8,8 +8,8 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#ifndef __SNAKE_GAME_H__
-#define __SNAKE_GAME_H__
+// #ifndef __SNAKE_GAME_H__
+// #define __SNAKE_GAME_H__
 int Print(void);
 int load(void);
 int mainMenu(void);
