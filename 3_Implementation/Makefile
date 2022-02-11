@@ -1,5 +1,6 @@
 PROJ_NAME = snakegame
-SRC = snake_main.c 
+SRC = src/snake_main.c
+ 
 
 ifdef OS
    RM = del /q
@@ -14,7 +15,7 @@ else
 endif
 
 build:
-	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcc $(SRC) -Iinc -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
 run: build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
