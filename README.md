@@ -2,7 +2,7 @@
 
 
 # M1_SnakeGame_-Game-
-# SnakeGAME is created using c language and it is console based game. 
+# SnakeGAME using c language
 
 
 ## Introduction
