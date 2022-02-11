@@ -1,5 +1,5 @@
-PROJ_NAME = s1nakegame
-SRC = snake.c
+PROJ_NAME = snakegame
+SRC = snake_main.c
 
 ifdef OS
    RM = del /q
