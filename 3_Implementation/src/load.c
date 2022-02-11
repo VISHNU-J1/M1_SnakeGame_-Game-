@@ -1,7 +1,12 @@
+#include <stdio.h>
+
 #include "snake_game.h"
-void load()
+
+
+int load(void)
 {
     int row,col,r,c,q;
+    
     gotoxy(49,10);
     printf("Don't maximize the window");
     gotoxy(56,14);
@@ -16,8 +21,14 @@ void load()
     printf("Press Enter key to continue..");
     
     getch();
-    gotoxy(60,50);    
-    system("cls");
+    // waitForAnyKey();
+    
+    // gotoxy(60,50); 
+    
+    system("cls||clear");
+   
+	
+    
     // if(getch()==27)
     //     exit(0);
 }

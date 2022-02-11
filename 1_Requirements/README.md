@@ -21,3 +21,11 @@
 * Weakness
   * Can lead to addiction in children. 
   * It can be extremely frustating to reach high level and then lose as you crash into yuor own tail.
+
+### 4W's and 1H
+## Who
+* This game can be played all age people.
+## What
+* Digital implementation of snake game in console.
+## When
+* A player need to control the snake using arrow keys and eat the food to grow without hitting any obstacles.
