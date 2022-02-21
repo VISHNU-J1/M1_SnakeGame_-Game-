@@ -1,5 +1,5 @@
-## Codecy Grade                           ## Codiga Quality Analysis
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/028d8c61346d45d1b517ce224cedc843)](https://www.codacy.com/gh/VISHNU-J1/M1_SnakeGame_-Game-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VISHNU-J1/M1_SnakeGame_-Game-&amp;utm_campaign=Badge_Grade)                                    ![Code Quality Score](https://api.codiga.io/project/31428/score/svg)       ![Code Grade](https://api.codiga.io/project/31428/status/svg)
+## Codecy Grade              
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/028d8c61346d45d1b517ce224cedc843)](https://www.codacy.com/gh/VISHNU-J1/M1_SnakeGame_-Game-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VISHNU-J1/M1_SnakeGame_-Game-&amp;utm_campaign=Badge_Grade)     
 
 ## Codiga Quality Analysis
 ![Code Quality Score](https://api.codiga.io/project/31428/score/svg)       ![Code Grade](https://api.codiga.io/project/31428/status/svg)
