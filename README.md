@@ -15,8 +15,8 @@
 ---
 ## Folder Structure
 |Folder |Description|
-|`0_Certificates`|All Certificates |
 |---|---|
+|`0_Certificates`|All Certificates |
 |`1_Requirements` |Documents detailing requirements and research |
 |`2_Architecture` |	Documents specifying design details |
 |`3_Implementation` |All code and documentation |
