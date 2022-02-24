@@ -27,5 +27,9 @@
 * This game can be played all age people.
 ## What
 * Digital implementation of snake game in console.
-## When
+## WHEN
+* Adult or child anyone can play in its free time aur whenever they feel bored.
+## WHY
+* Just for refeshing mind and for Enjoyment.
+## HOW
 * A player need to control the snake using arrow keys and eat the food to grow without hitting any obstacles.

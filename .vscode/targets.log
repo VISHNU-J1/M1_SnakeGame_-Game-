@@ -10,13 +10,13 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 make.exe: *** No rule to make target `all'.  Stop.
  
 
-# Make data base, printed on Fri Feb 11 16:58:42 2022
+# Make data base, printed on Fri Feb 11 20:22:31 2022
 
 # Variables
 
+ 
 # automatic
 <D = $(patsubst %/,%,$(dir $<))
- 
 # automatic
 ?F = $(notdir $?)
 # makefile
@@ -50,6 +50,8 @@ PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # makefile
 MAKEFILE_LIST := 
 # environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
 TMP = /tmp
 # environment
 VSCODE_VERBOSE_LOGGING = true
@@ -58,7 +60,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-55d7ff05-8282-4f10-adb2-59102a1cb137-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-ce78be31-91ef-4ea6-8cfa-d5b2a22609a3-sock
 # environment
 VSCODE_CWD = C:\Users\vibev\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -104,7 +106,7 @@ VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProce
 # environment
 VSCODE_CODE_CACHE_PATH = C:\Users\vibev\AppData\Roaming\Code\CachedData\f80445acd5a3dadef24aa209168452a3d97cc326
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # environment
@@ -130,7 +132,6 @@ PROGRAMFILES(X86) = C:\Program Files (x86)
 # automatic
 %D = $(patsubst %/,%,$(dir $%))
 # environment
- 
 LOCALAPPDATA = C:\Users\vibev\AppData\Local
 # environment
 PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
@@ -158,6 +159,7 @@ PROMPT = $P$G
 MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
+ 
 # environment
 REGIONCODE = APJ
 # environment
@@ -201,11 +203,13 @@ PROCESSOR_LEVEL = 6
 # environment
 TERM = cygwin
 # environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
 VSCODE_PID = 21584
 # environment
 USERDOMAIN_ROAMINGPROFILE = LAPTOP-V293PDA1
 # variable set hash-table stats:
-# Load=94/1024=9%, Rehash=0, Collisions=9/116=8%
+# Load=96/1024=9%, Rehash=0, Collisions=9/118=8%
 
 # Pattern-specific Variable Values
 
@@ -286,7 +290,8 @@ GNUmakefile:
 # # of strcache buffers: 0
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
+ 
 
-# Finished Make data base on Fri Feb 11 16:58:42 2022
+# Finished Make data base on Fri Feb 11 20:22:31 2022
 
  
