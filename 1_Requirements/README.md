@@ -10,7 +10,7 @@
 * Build a boundary within which the game will be played.
 * The fruits are generated randomly.
 * Then increase the score whenever the snake eats a fruit.
-
+---
 ## SWOT Analysis
 * Strengths
   * A very simple game .
@@ -21,7 +21,7 @@
 * Weakness
   * Can lead to addiction in children. 
   * It can be extremely frustating to reach high level and then lose as you crash into yuor own tail.
-
+---
 ### 4W's and 1H
 ## Who
 * This game can be played all age people.
