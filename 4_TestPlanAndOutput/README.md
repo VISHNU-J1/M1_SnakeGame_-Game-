@@ -12,4 +12,4 @@
 ## Low Level Test Plan
 |Test ID |Description |Expected I/P |Expected O/P |Actual Output |
 |---|---|---|---|---|
-|LTP_01 |For High Score |User Input Name |Save in .text file |Pass |
+|LTP_01 |For High Score |User Input "Name" |Save in .text file |Pass |
