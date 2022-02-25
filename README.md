@@ -32,6 +32,6 @@
   * Helps to learn about spartial awerness and plan ahead to your next move. 
   * Easy to design.
 
-* Weakness
+* Weakness 
   * Can lead to addiction in children. 
   * It can be extremely frustating to reach high level and then lose as you crash into yuor own tail.
