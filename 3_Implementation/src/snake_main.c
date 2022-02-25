@@ -218,22 +218,7 @@ int generateFood(int foodXY[], int width, int height, int snakeXY[][SNAKE_ARRAY_
 	return(0);
 }
 
-/*
-Moves the snake array forward, i.e. 
-This:
-	x 1 2 3 4 5 6
-	y 1 1 1 1 1 1
-Becomes This:
-	x 1 1 2 3 4 5
-	y 1 1 1 1 1 1
-	
-	Then depending on the direction (in this case west - left) it becomes:
-	
-	x 0 1 2 3 4 5
-	y 1 1 1 1 1 1
-	
-	snakeXY[0][0]--; <- if direction left, take 1 away from the x coordinate
-*/
+
 void moveSnakeArray(int snakeXY[][SNAKE_ARRAY_SIZE], int snakeLength, int direction)
 {
 	int i;
