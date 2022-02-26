@@ -27,6 +27,9 @@ $(BUILD_DIR):
 run: build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
+static_analysis:
+	cppcheck --enable=all $(SRC)
+
 # clean:
 # 	$(RM) $(call FixPath,$(PROJ_NAME).$(EXEC))
 # 	$(RM) $(call FixPath,$(BUILD_DIR)/*)
