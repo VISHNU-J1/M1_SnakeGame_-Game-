@@ -13,9 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: build
-      run: gcc snake_make -o snakegame.exe
-    - name: Run
-      run: make check
-    - name: ./snakegame.exe
+    - name: make
+      run: make Run -C 3_Implementation/snake_main
+
 
