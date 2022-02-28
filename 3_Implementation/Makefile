@@ -20,7 +20,7 @@ endif
 
 build:
 	gcc $(SRC) -Iinc -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
-	mkdir build
+	# mkdir build
 $(BUILD_DIR):
 	mkdir $(BUILD_DIR)
 
