@@ -1,5 +1,8 @@
 PROJ_NAME = snakegame
-SRC = src/snake_main.c
+SRC = snake_main.c\
+src/functiond.c\
+src/load.c\
+src/menu.c
 
 
 TEST_SRC =test/test.c\

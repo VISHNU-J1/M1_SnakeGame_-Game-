@@ -4,9 +4,6 @@
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>
-#include "load.c"
-#include "functiond.c"
-#include "menu.c"
 #include "snake_game.h"
 
 
