@@ -33,6 +33,14 @@ run: build
 static_analysis:
 	cppcheck --enable=all $(SRC)
 
+
+debug:
+	gcc -I $(INC) $(SRC) main.c -g -o $(PROJ_NAME).$(EXEC)
+	gdb $(PROJ_NAME).$(EXEC)
+
+valgrind:
+	valgrind ./$(TEST_PROJ_NAME).$(EXEC)
+
 # clean:
 # 	$(RM) $(call FixPath,$(PROJ_NAME).$(EXEC))
 # 	$(RM) $(call FixPath,$(BUILD_DIR)/*)
